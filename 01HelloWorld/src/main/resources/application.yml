@@ -1,0 +1,5 @@
+server:
+  port: 8082
+student:
+  name: 这就能扫描到？
+  age: 22
