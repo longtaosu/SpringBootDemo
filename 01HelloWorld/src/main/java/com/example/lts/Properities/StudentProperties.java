@@ -1,4 +1,4 @@
-package com.lts.springboot;
+package com.example.lts.Properities;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.PropertySource;
